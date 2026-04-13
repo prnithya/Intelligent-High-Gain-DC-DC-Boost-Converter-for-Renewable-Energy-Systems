@@ -1,1 +1,1 @@
-# Intelligent-High-Gain-DC-DC-Boost-Converter-for-Renewable-Energy-Systems
+# High-Gain-DC-DC-Converter-for-Renewable-Energy-Applications
